@@ -1,0 +1,6 @@
+{
+  "name": "Mesa Fácil",
+  "description": "Sistema integral gastronómico para restaurantes: carta digital QR, pedidos en vivo, comanda mozo, KDS cocina, caja con Mercado Pago y administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
